@@ -1,0 +1,14 @@
+fileVersion: 1
+id: "63"
+mappingDefinitions:
+  BOOBOO:
+    database: NOLAN_DB
+    schema: BOOBOO
+  SRC:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+  TARGET:
+    database: NOLAN_DB
+    schema: NOTBIG
+name: yee
+type: Environment
